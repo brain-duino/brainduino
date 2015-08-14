@@ -1,4 +1,4 @@
 misc
 ====
-https://github.com/openbrainhacking/misc/wiki
+https://github.com/brain-duino/misc/wiki
 files and main discussion wiki
